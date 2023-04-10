@@ -55,3 +55,9 @@ Prof 1
 \## 🛠️ Abre y ejecuta el proyecto
 
 **Muestra las instrucciones necesarias para abrir y ejecutar el proyecto**
+
+## Autores
+
+| [<img src="https://avatars.githubusercontent.com/u/foto1" width=115><br><sub>Nombre 1</sub>](https://github.com/usuario1) | 
+| [<img src="https://avatars.githubusercontent.com/u/foto2" width=115><br><sub>Nombre 2</sub>](https://github.com/usuario2) |  
+| :---: | :---: | :---: |
